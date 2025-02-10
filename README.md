@@ -27,7 +27,7 @@ Run the script:
 
 python script.py **or** python Program_Blocker.py
 
-Enter the name of the program you want to block (e.g., notepad.exe).
+Enter the name of the program you want to block (e.g., `notepad.exe`).
 
 Click "Start Blocking" to prevent the program from running.
 
